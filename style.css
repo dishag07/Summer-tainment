@@ -6,7 +6,7 @@
 :root {
     --background: #131313;
     --primary: #e9a6d3;
-    --secondary: #19c96d;
+    --secondary: #e9a6d3;
 }
 
 /* Resetting default styles */
@@ -281,4 +281,8 @@ button {
 .footer a {
     color: black;
     text-decoration: none;
+}
+
+.container {
+    border-color: white;
 }
