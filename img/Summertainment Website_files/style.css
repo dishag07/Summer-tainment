@@ -57,15 +57,9 @@ body {
     padding-bottom: 15px;
 
 }
+.beach{
 
-.beach {
-opacity: 1;
-border-color: white;
 }
+.beach:hover{
 
-.beach:hover {  
-opacity: 0.50;
-background-color: rgb(70, 64, 64);
-transition-timing-function: ease-in;
-border-color: white;
 }
