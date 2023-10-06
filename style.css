@@ -69,3 +69,14 @@ background-color: rgb(70, 64, 64);
 transition-timing-function: ease-in;
 border-color: white;
 }
+
+.carousel-item {
+    padding-top: 13px;
+    border-radius: 10px;
+    border-color: white;
+}
+
+#words {
+    margin-top: 1rem;
+    color:#613452;
+}
