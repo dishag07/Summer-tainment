@@ -84,3 +84,13 @@ border-color: white;
 .navbar {
     margin-top: 20px;
 }
+
+.img-thumbnail {
+    height: 350px;
+    width: 400px;
+}
+
+.carousel-item {
+    height: 450px;
+    width: 600px;
+}
